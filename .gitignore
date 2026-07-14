@@ -1,0 +1,38 @@
+# ==========================================
+# 🚀 Environment & Dependency Isolation
+# ==========================================
+# Never commit local virtual environments or binary runtimes
+.venv/
+env/
+venv/
+ENV/
+
+
+# ==========================================
+# ⚙️ Python & System Bytecode
+# ==========================================
+# Automatically generated compiled Python code cache
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+
+# ==========================================
+# 📓 Jupyter Notebook Artifacts
+# ==========================================
+# Temporary checkpoint auto-saves created while coding
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# ==========================================
+# 🖥️ Operating System Garbage
+# ==========================================
+# Windows directory layout files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS index folder files
+.DS_Store
+.AppleDouble
+.LSOverride
