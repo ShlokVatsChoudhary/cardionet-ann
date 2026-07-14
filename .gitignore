@@ -7,7 +7,6 @@ env/
 venv/
 ENV/
 
-
 # ==========================================
 # ⚙️ Python & System Bytecode
 # ==========================================
@@ -36,3 +35,6 @@ Desktop.ini
 .DS_Store
 .AppleDouble
 .LSOverride
+
+# VS Code
+.vscode/
